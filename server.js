@@ -40,5 +40,5 @@ var port = process.env.PORT || '8000';
 
 server.listen(port);
 server.on('listening', function() {
-    console.log('Express server started on port %s at %s', server.address().port, server.address().address);
+    console.log('Express server started on port %s', server.address().port);
 });
