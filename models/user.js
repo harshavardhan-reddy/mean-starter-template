@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 var bcrypt = require('bcrypt-nodejs');
-var uuid = require('node-uuid');
+var uuid = require('uuid');
 var logger = require('tracer').colorConsole();
 
 
