@@ -3,17 +3,16 @@ A starter template for applications to be built on MEAN Stack
 
 Just do the following commands on your command line and you are good to go
 
-1. NPM Install
-yo
+=> NPM Install
 ```javascript
   npm install
   ```
-2. Bower Install
+=> Bower Install
 
 ```javascript
   bower install
   ```
-3. Start Node
+=> Start Node
 
 ```javascript
   npm start
