@@ -1,0 +1,31 @@
+{
+  "name": "mean-starter-template",
+  "description": "A starter template for web application to be built on MEAN Stack",
+  "main": "server.js",
+  "authors": [
+    "Harshavardhan Reddy B"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "\"MEAN",
+    "Node",
+    "Angular",
+    "Mongo",
+    "MongoDB",
+    "Express\""
+  ],
+  "homepage": "https://github.com/harshavardhan-reddy/mean-starter-template",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.4.2",
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7"
+  }
+}
